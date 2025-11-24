@@ -55,10 +55,18 @@ create table todos (
 ```
 
 #### 3. Get Your Supabase URL & Anon Key
-Dashboard → Settings → API  
+Dashboard → Settings → API Keys
 You’ll need:
 - Project URL → `SUPABASE_URL`
 - anon public key → `SUPABASE_ANON_KEY`
+
+## TROUBLE SHOOTING 
+If you're having trouble making the connection, on the API keys page, click Connect on the command bar, on the pop-up, select the **App Framework** tab. Copy the string connection 
+<img width="2820" height="1358" alt="image" src="https://github.com/user-attachments/assets/1d908dde-c4e1-4b0f-90ed-559764c4f47e" />
+
+<img width="2820" height="1358" alt="image" src="https://github.com/user-attachments/assets/1d77468c-91f0-4ced-9c8d-ef6f45ad656c" />
+
+
 
 #### 4. Connect the App to Your Real Database
 Back in AI Studio chat, paste:
@@ -97,12 +105,8 @@ Skeleton loaders while fetching
 ```
 
 #### 7. Deploy in 1 Click
-In AI Studio → Click “Deploy” → Choose Vercel → Done!  
+In AI Studio → Click “Deploy” → Choose Github → Create Repo → Click Deploy → Done!  
 You get a live URL instantly.
-
-### Ready-Made Prompt Pack (Copy-Paste)
-https://gist.github.com/yourfriend/this-will-be-a-public-gist-link-when-you-save-it  
-(Just paste each block in order)
 
 ### Best Learning Resources (2025 Edition)
 
