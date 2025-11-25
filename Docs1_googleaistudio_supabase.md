@@ -118,14 +118,8 @@ You get a live URL instantly.
 #### Supabase
 - Official Quickstart → https://supabase.com/docs/guides/getting-started
 - Authentication Guide → https://supabase.com/docs/guides/auth
-- Row Level Security Explained (12 min) → https://www.youtube.com/watch?v=311Hz81_uZ0
-- Supabase + React Full Course (Fireship, 2025) → https://www.youtube.com/watch?v=5e2nj5aNySE
-- Free Supabase Crash Course (Web Dev Simplified) → https://www.youtube.com/watch?v=yy2TQLcwLpI
+- Supabase course https://www.youtube.com/playlist?list=PL4cUxeGkcC9hUb6sHthUEwG7r9VDPBMKO
 
-#### Full-Stack AI App Building Playlists
-- “Google AI Studio Full Course 2025” (by CodeWithAntonio) → https://www.youtube.com/playlist?list=PL4RVeZf7R1l0h2I5s1L9X4v5p8T8mI2kJ
-- “Build 10 Apps with Gemini” (by Traversy Media) → https://www.youtube.com/watch?v=mqR0U4o9A6o
-- DEV Community Free Track (earn badges) → https://dev.to/challenges/google-ai
 
 #### Bonus Project Ideas to Try Next
 1. AI Flashcard app (with image upload)
