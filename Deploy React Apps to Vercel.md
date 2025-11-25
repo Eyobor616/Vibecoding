@@ -1,4 +1,3 @@
-```markdown
 # Complete Beginner’s Guide to Building, Running & Deploying a React App in 2025  
 **Your one-stop markdown resource – bookmark this!**  
 Created especially for total newbies by a friendly full-stack dev 🚀
