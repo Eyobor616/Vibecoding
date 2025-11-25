@@ -55,6 +55,7 @@ npm run dev
 - [Git & GitHub Crash Course 2025](https://www.youtube.com/watch?v=RGOj5yH7evk) – freeCodeCamp
 
 ### Quick Steps (after creating repo on GitHub – no README)
+Create your github repo
 ```bash
 git init
 git add .
